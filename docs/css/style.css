@@ -1570,8 +1570,8 @@ hr.line-divider {
     height: 100%;
     width: 100%;
     margin: 0 auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -4220,7 +4220,7 @@ p{
     margin: -43px 10px 10px -77px;
     font-weight: 400;
     font-size: 15px;
-    line-height: 20px;
+    line-height: 22px;
     color: #f0394d;
 }
 .timeline-step-date {

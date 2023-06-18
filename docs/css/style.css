@@ -4217,10 +4217,10 @@ p{
 .timeline-step-data {
     text-align: center;
     width: 200px;
-    margin: -23px 0 0 -77px;
+    margin: -43px 10px 10px -77px;
     font-weight: 400;
     font-size: 15px;
-    line-height: 18px;
+    line-height: 20px;
     color: #f0394d;
 }
 .timeline-step-date {
